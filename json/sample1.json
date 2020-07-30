@@ -1,4 +1,4 @@
-jsonFlickrFeed({
+{
 		"title": "Recent Uploads tagged kitten",
 		"link": "https:\/\/www.flickr.com\/photos\/tags\/kitten\/",
 		"description": "",
@@ -226,4 +226,4 @@ jsonFlickrFeed({
 			"tags": "cat kitten bangladesh wildlife animals canon"
 	   }
         ]
-})
+}
